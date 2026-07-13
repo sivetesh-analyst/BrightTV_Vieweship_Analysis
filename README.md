@@ -1,1 +1,5 @@
-# BrightTV_Vieweship_Analysis
+This project analyses BrightTV's user profiles and viewership data to support the company's objective of growing its subscription base during the current financial year. Using customer profile and viewing session data, the analysis provides data-driven insights into subscriber behaviour, viewing patterns, content consumption, and customer engagement.
+
+The project explores key business questions, including who the most engaged viewers are, which channels and content generate the highest watch time, when viewing activity is highest and lowest, and how engagement varies across customer segments such as age, gender, and region. It also identifies periods of low engagement, evaluates viewing trends over time, and highlights opportunities to improve customer retention and attract new subscribers.
+
+The repository includes SQL data preparation, data cleaning and transformation, exploratory data analysis, interactive dashboards, visualisations, and business recommendations designed to support the Customer Value Management (CVM) team in making data-driven decisions. The insights generated from this analysis help BrightTV develop targeted content strategies, optimise customer engagement initiatives, and drive sustainable subscription growth.
